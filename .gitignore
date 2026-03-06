@@ -1,0 +1,8 @@
+venv
+__pycahche__/
+*.pyc
+venv/
+.DS_Store
+.idea/
+*.log
+prdfinal.txt
