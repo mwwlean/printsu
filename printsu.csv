@@ -2,3 +2,5 @@ order_id,student_name,document_name,pages,print_type,total_cost,created_at
 1,Jan Leander Matutes,Parents Permit,2,bw,6.0,2026-03-19
 2,Charlene Angel Custodio,Parents Permit,4,colored,40.0,2026-03-19
 3,Angelo Mahusay,Parents Permit,4,photo,80.0,2026-03-19
+4,Franzin Dalumpines,Parents Permit,3,photo,60.0,2026-03-20
+5,Edward Anthony Marquez,Parents Permit,3,colored,30.0,2026-03-20

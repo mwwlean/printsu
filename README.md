@@ -1,6 +1,7 @@
 ## Project Title: Printsu: A Campus Printing Management System
 
 ### Github Repo Link: https://github.com/mwwlean/printsu
+### Youtube Link: https://youtu.be/eLKDf_izKWg
 
 ## 1. Project Overview
 Printsu is a backend API system designed to automate the order management and calculation logic for a campus printing shop.
